@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0gzkqImYCzK9xa5u5LDwb+3ZMg/lzUWJIujCyTvLxjPBMb6UutIlc3QXlVIukEd6S97ZAjDULKZushHd4d9I5g==",
+  "dgSpecHash": "3LydLYxxXP8FJmfsLidq9GRp2dUmGtnHy1k8PW7YAYHOm+Caw8YpUiX2eopdo3MnndHtlBZ4sqJhXMHo+/cJ/g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Михаил\\Desktop\\Boxing-Compititions-Asp-git\\Diploma(copy)\\Diploma\\Diploma.csproj",
+  "projectFilePath": "C:\\Users\\Михаил\\Desktop\\ASP-Boxing-Compititions\\Diploma(copy)\\Diploma\\Diploma.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Михаил\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\Михаил\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",

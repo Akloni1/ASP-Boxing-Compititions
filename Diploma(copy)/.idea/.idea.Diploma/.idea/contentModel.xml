@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ContentModelStore">
     <e p="C:\Users\Михаил\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\Михаил\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_Diploma.702260783.00" t="ExcludeRecursive" />
-    <e p="C:\Users\Михаил\Desktop\Boxing-Compititions-Asp-git\Diploma(copy)" t="IncludeFlat">
+    <e p="C:\Users\Михаил\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_Diploma.1624771946.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Михаил\Desktop\ASP-Boxing-Compititions\Diploma(copy)" t="IncludeFlat">
       <e p="Diploma" t="IncludeRecursive">
         <e p="appsettings.Development.json" t="Include" />
         <e p="appsettings.json" t="Include" />
@@ -13,6 +13,7 @@
           <e p="BoxersController.cs" t="Include" />
           <e p="BoxingClubsApiController.cs" t="Include" />
           <e p="BoxingClubsController.cs" t="Include" />
+          <e p="CoachesApiController.cs" t="Include" />
           <e p="HelloWorldController.cs" t="Include" />
           <e p="HomeController.cs" t="Include" />
         </e>
@@ -61,6 +62,12 @@
             <e p="DeleteBoxingClubsViewModel.cs" t="Include" />
             <e p="EditBoxingClubsViewModel.cs" t="Include" />
             <e p="InputBoxingClubsViewModel.cs" t="Include" />
+          </e>
+          <e p="Coaches" t="Include">
+            <e p="CoachViewModel.cs" t="Include" />
+            <e p="DeleteCoachViewModel.cs" t="Include" />
+            <e p="EditCoachViewModel.cs" t="Include" />
+            <e p="InputCoachViewModel.cs" t="Include" />
           </e>
         </e>
         <e p="Views" t="Include">

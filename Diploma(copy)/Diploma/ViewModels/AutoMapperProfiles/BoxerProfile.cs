@@ -1,7 +1,7 @@
 ﻿using AutoMapper;
 using Diploma.ViewModels.Boxers;
 using Diploma.ViewModels.BoxingClubs;
-
+using Diploma.ViewModels.Coaches;
 
 namespace Diploma.ViewModels.AutoMapperProfiles
 
@@ -19,7 +19,10 @@ namespace Diploma.ViewModels.AutoMapperProfiles
             CreateMap<Diploma.BoxingClubs, DeleteBoxingClubsViewModel>();
             CreateMap<Diploma.BoxingClubs, EditBoxingClubsViewModel>().ReverseMap();
             CreateMap<Diploma.BoxingClubs, BoxingClubsViewModel>();
-           
+            CreateMap<Diploma.Coaches, InputCoachViewModel>().ReverseMap();
+            CreateMap<Diploma.Coaches, DeleteCoachViewModel>();
+            CreateMap<Diploma.Coaches, EditCoachViewModel>().ReverseMap();
+            CreateMap<Diploma.Coaches, CoachViewModel>();
         }
     }
 }
